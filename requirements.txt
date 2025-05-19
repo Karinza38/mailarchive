@@ -46,3 +46,4 @@ python-dateutil>=2.2
 scout-apm>=2.23.0
 selenium
 six
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
